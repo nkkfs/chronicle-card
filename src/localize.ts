@@ -458,6 +458,65 @@ const translations: Record<string, TranslationDict> = {
     'chronicle.editor.show_source_badge': 'Visa källmärke',
     'chronicle.editor.show_layout_toggle': 'Visa layoutväxlare',
   },
+
+  // -----------------------------------------------------------------------
+  // Polish
+  // -----------------------------------------------------------------------
+  pl: {
+    'chronicle.today': 'Dzisiaj',
+    'chronicle.yesterday': 'Wczoraj',
+    'chronicle.no_events': 'Brak zdarzeń',
+    'chronicle.events_count': '{count} zdarzeń',
+    'chronicle.group_summary': '{count} podobnych zdarzeń',
+    'chronicle.loading': 'Ładowanie...',
+    'chronicle.error': 'Błąd ładowania zdarzeń',
+    'chronicle.refresh': 'Odśwież',
+
+    // Severity levels
+    'chronicle.severity.critical': 'Krytyczny',
+    'chronicle.severity.warning': 'Ostrzeżenie',
+    'chronicle.severity.info': 'Info',
+    'chronicle.severity.debug': 'Debug',
+
+    // Time labels
+    'chronicle.time.just_now': 'przed chwilą',
+    'chronicle.time.minutes_ago': '{count} min temu',
+    'chronicle.time.hours_ago': '{count} godz. temu',
+    'chronicle.time.yesterday': 'Wczoraj',
+
+    // Editor labels
+    'chronicle.editor.title': 'Tytuł',
+    'chronicle.editor.layout': 'Układ',
+    'chronicle.editor.layout_vertical': 'Pionowy',
+    'chronicle.editor.layout_horizontal': 'Poziomy',
+    'chronicle.editor.sources': 'Źródła',
+    'chronicle.editor.add_source': 'Dodaj źródło',
+    'chronicle.editor.remove_source': 'Usuń źródło',
+    'chronicle.editor.source_type': 'Typ źródła',
+    'chronicle.editor.entity': 'Encja',
+    'chronicle.editor.entities': 'Encje',
+    'chronicle.editor.filters': 'Filtry',
+    'chronicle.editor.categories': 'Kategorie',
+    'chronicle.editor.severities': 'Ważności',
+    'chronicle.editor.search': 'Szukaj',
+    'chronicle.editor.grouping': 'Grupowanie',
+    'chronicle.editor.group_by': 'Grupuj według',
+    'chronicle.editor.appearance': 'Wygląd',
+    'chronicle.editor.card_height': 'Wysokość karty',
+    'chronicle.editor.compact': 'Tryb kompaktowy',
+    'chronicle.editor.show_images': 'Pokaż obrazy',
+    'chronicle.editor.show_icons': 'Pokaż ikony',
+    'chronicle.editor.show_header': 'Pokaż nagłówek',
+    'chronicle.editor.max_events': 'Maks. zdarzeń',
+    'chronicle.editor.days_back': 'Dni wstecz',
+    'chronicle.editor.time_format': 'Format czasu',
+    'chronicle.editor.language': 'Język',
+    'chronicle.editor.severity_colors': 'Kolory ważności',
+    'chronicle.editor.animate_new': 'Animuj nowe zdarzenia',
+    'chronicle.editor.show_severity_badge': 'Pokaż odznakę ważności',
+    'chronicle.editor.show_source_badge': 'Pokaż odznakę źródła',
+    'chronicle.editor.show_layout_toggle': 'Pokaż przełącznik układu',
+  },
 };
 
 /**
